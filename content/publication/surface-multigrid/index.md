@@ -31,7 +31,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 
 # Summary. An optional shortened abstract.
 summary: 'Hsueh-Ti Derek Liu, <b>Jiayi Eris Zhang</b>, Mirela Ben-Chen, Alec Jacobson <br>
-          <i>ACM SIGGRAPH North America 2022</i>'
+          <i>ACM SIGGRAPH North America 2021</i>'
 
 tags: []
 
