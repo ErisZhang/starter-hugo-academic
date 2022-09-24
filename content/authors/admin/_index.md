@@ -40,16 +40,16 @@ education:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ErisZhang0326
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=rZfDdGsAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ErisZhang
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jiayi-eris-zhang-88b895158/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -69,7 +69,7 @@ Hi! I am a rising second-year Ph.D. student in Computer Science at [Stanford Uni
 
 I have a board interest in computer graphics, including physical simulation, geometry processing and computational fabrication. My current research is primarily focusing on developing computational tools and models via numerical methods for augmenting user creativity and productivity in design, animation and simulation.
 
-Before, I did my undergrad at the [University of Toronto](https://www.utoronto.ca/), advised by Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/). I was also fortunate to do research with Profs. [Marc Alexa](https://www.cg.tu-berlin.de/team/prof-dr-marc-alexa/), [David Levin](http://142.93.146.228/researchdb/), [Fanny Chevalier](http://fannychevalier.net/) and [Ken Jackson](http://www.cs.toronto.edu/~krj/) there, getting exposed to various topics in computer graphics, human computer interaction and numerical analysis. I have been doing wonderful internships at [Adobe Research](https://research.adobe.com/), where I started to work with my mentor Dr. [Danny Kaufman](http://dannykaufman.io/).
+Before, I did my undergrad at the [University of Toronto](https://www.utoronto.ca/), advised by Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/). I was also fortunate to do research with Profs. [Marc Alexa](https://www.cg.tu-berlin.de/team/prof-dr-marc-alexa/), [David Levin](http://142.93.146.228/researchdb/), [Fanny Chevalier](http://fannychevalier.net/) and [Ken Jackson](http://www.cs.toronto.edu/~krj/) there, getting exposed to various topics in computer graphics, human computer interaction and numerical analysis. I also did wonderful internships at [Adobe Research](https://research.adobe.com/), where I started to work with my mentor Dr. [Danny Kaufman](http://dannykaufman.io/).
 
 Email: eriszhan [at] stanford [dot] edu
 

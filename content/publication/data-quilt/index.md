@@ -17,21 +17,12 @@ weight: 5
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
 
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Recent years have seen an increasing interest in the authoring and crafting of personal visualizations. Mainstream data analysis and authoring tools lack the flexibility for customization and personalization, whereas tools from the research community either require creativity and drawing skills, or are limited to simple vector graphics. We present DataQuilt, a novel system that enables visualization authors to iteratively design pictorial visualizations as collages. Real images (e.g. paintings, photographs, sketches) act as both inspiration and as a resource of visual elements that can be mapped to data. The creative pipeline involves the semi-guided extraction of relevant elements of an image (arbitrary regions, regular shapes, color palettes, textures) aided by computer vision techniques; the binding of these graphical elements and their features to data in order to create meaningful visualizations; and the iterative refinement of both features and visualizations through direct manipulation. We demonstrate the usability of DataQuilt in a controlled study and its expressiveness through a collection of authored visualizations from a second open-ended study.
 
 # Summary. An optional shortened abstract.
 summary: '<b>Jiayi Eris Zhang</b>, Nicole Sultanum, Anastasia Bezerianos, Fanny Chevalier <br>
-          <i>ACM CHI 2020</i>'
+          <i>ACM SIGCHI Conference on Human Factors in Computing Systems (CHI 2020)</i>'
 
 tags: []
 
@@ -59,20 +50,6 @@ image:
   focal_point: ''
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
 {{% callout note %}}
@@ -82,5 +59,3 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
