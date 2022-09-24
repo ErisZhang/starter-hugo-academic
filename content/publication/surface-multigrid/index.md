@@ -29,9 +29,18 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Paper
+  url: uploads/surface-multigrid-high.pdf
+- name: ArXiv
+  url: https://arxiv.org/abs/2104.13755
+- name: Project
+  url: https://www.dgp.toronto.edu/projects/intrinsic-prolongation/
+- name: Code
+  url: https://github.com/HTDerekLiu/surface_multigrid_code
+- name: Talk
+  url: https://www.youtube.com/watch?v=oQdhzaD62jg
+
 
 url_pdf: ''
 url_code: ''
@@ -43,12 +52,3 @@ url_source: ''
 url_video: ''
 
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-

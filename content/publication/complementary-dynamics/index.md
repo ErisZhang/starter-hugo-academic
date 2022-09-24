@@ -21,7 +21,8 @@ abstract: We present a novel approach to enrich arbitrary rig animations with el
 
 # Summary. An optional shortened abstract.
 summary: '<b>Jiayi Eris Zhang</b>, Seungbae Bang, David I.W. Levin, Alec Jacobson <br>
-          <i>ACM Transactions on Graphics (SIGGRAPH Asia 2020)</i>'
+          <i>ACM Transactions on Graphics (SIGGRAPH Asia 2020)</i> <br>
+          <i>*Featured in the <a href="https://www.youtube.com/watch?v=Q45KT0lGd7A" style="color:rgb(232, 60, 37);font-size:16px">Technical Papers Trailer</a> and <a href="https://www.youtube.com/watch?v=s8Nm_ytwO6w&feature=youtu.be" style="color:rgb(232, 60, 37);font-size:16px">Two Minute Papers</a></i>'
 
 tags: []
 
@@ -29,9 +30,19 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Paper
+  url: uploads/complementary-dynamics.pdf
+- name: ArXiv
+  url: https://arxiv.org/abs/2009.02462
+- name: Project
+  url: https://www.dgp.toronto.edu/projects/complementary-dynamics/
+- name: Code (Matlab)
+  url: https://github.com/ErisZhang/complementary-dynamics
+- name: Code (C++)
+  url: https://github.com/seungbaebang/complementary-dynamics-cpp
+- name: Talk
+  url: https://www.youtube.com/watch?v=Oh2fZGmfYew&t=6s
 
 url_pdf: ''
 url_code: ''
@@ -43,11 +54,3 @@ url_source: ''
 url_video: ''
 
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
