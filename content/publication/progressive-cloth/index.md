@@ -9,7 +9,7 @@ authors:
 # Author notes (optional)
 author_notes:
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-12-01T00:00:00Z'
 doi: ''
 
 weight: 1
@@ -30,8 +30,15 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Paper Coming Soon
-  url: 
+- name: Paper
+  url: uploads/pcs-main.pdf
+- name: Supplement
+  url: uploads/pcs-supplement.pdf
+- name: Project
+  url: https://pcs-sim.github.io/
+- name: Talk
+  url: https://www.youtube.com/watch?v=a4BhsmiK8Gs
+
 
 url_pdf: ''
 url_code: ''
