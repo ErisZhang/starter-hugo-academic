@@ -12,7 +12,7 @@ author_notes:
 date: '2013-07-01T00:00:00Z'
 doi: ''
 
-weight: 2
+weight: 92
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -31,7 +31,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: uploads/surface-multigrid-high.pdf
+  url: uploads/surface-multigrid.pdf
 - name: ArXiv
   url: https://arxiv.org/abs/2104.13755
 - name: Project

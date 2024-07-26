@@ -12,7 +12,7 @@ author_notes:
 date: '2013-07-01T00:00:00Z'
 doi: ''
 
-weight: 4
+weight: 94
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -22,7 +22,7 @@ abstract: We present a novel approach to enrich arbitrary rig animations with el
 # Summary. An optional shortened abstract.
 summary: '<b>Jiayi Eris Zhang</b>, Seungbae Bang, David I.W. Levin, Alec Jacobson <br>
           <i>ACM Transactions on Graphics (SIGGRAPH Asia 2020)</i> <br>
-          <i>*Featured in the <a href="https://www.youtube.com/watch?v=Q45KT0lGd7A" style="color:rgb(232, 60, 37);font-size:16px">Technical Papers Trailer</a> and <a href="https://www.youtube.com/watch?v=s8Nm_ytwO6w&feature=youtu.be" style="color:rgb(232, 60, 37);font-size:16px">Two Minute Papers</a></i>'
+          <i>*Featured in the <a href="https://www.youtube.com/watch?v=Q45KT0lGd7A" style="color:rgb(232, 60, 37);font-size:16px">technical papers trailer</a> and <a href="https://www.youtube.com/watch?v=s8Nm_ytwO6w&feature=youtu.be" style="color:rgb(232, 60, 37);font-size:16px">Two Minute Papers</a></i>'
 
 tags: []
 
